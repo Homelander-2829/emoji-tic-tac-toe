@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emoji-tic-tac-toe/static/css/main.e5155342.css",
+    "main.js": "/emoji-tic-tac-toe/static/js/main.6a25317f.js",
+    "static/js/453.defdcfd4.chunk.js": "/emoji-tic-tac-toe/static/js/453.defdcfd4.chunk.js",
+    "index.html": "/emoji-tic-tac-toe/index.html",
+    "main.e5155342.css.map": "/emoji-tic-tac-toe/static/css/main.e5155342.css.map",
+    "main.6a25317f.js.map": "/emoji-tic-tac-toe/static/js/main.6a25317f.js.map",
+    "453.defdcfd4.chunk.js.map": "/emoji-tic-tac-toe/static/js/453.defdcfd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5155342.css",
+    "static/js/main.6a25317f.js"
+  ]
+}

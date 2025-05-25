@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/emoji-tic-tac-toe/static/css/main.e5155342.css",
-    "main.js": "/emoji-tic-tac-toe/static/js/main.117ff458.js",
+    "main.css": "/emoji-tic-tac-toe/static/css/main.38e25c70.css",
+    "main.js": "/emoji-tic-tac-toe/static/js/main.2056cc5f.js",
     "static/js/453.defdcfd4.chunk.js": "/emoji-tic-tac-toe/static/js/453.defdcfd4.chunk.js",
+    "static/media/lofi-study-calm-peaceful-chill-hop-112191.mp3": "/emoji-tic-tac-toe/static/media/lofi-study-calm-peaceful-chill-hop-112191.971be2d4c67fa5d63775.mp3",
+    "static/media/game.mp3": "/emoji-tic-tac-toe/static/media/game.176e67015c21456a7391.mp3",
+    "static/media/win.wav": "/emoji-tic-tac-toe/static/media/win.a7022fca9be01d175603.wav",
     "index.html": "/emoji-tic-tac-toe/index.html",
-    "main.e5155342.css.map": "/emoji-tic-tac-toe/static/css/main.e5155342.css.map",
-    "main.117ff458.js.map": "/emoji-tic-tac-toe/static/js/main.117ff458.js.map",
+    "main.38e25c70.css.map": "/emoji-tic-tac-toe/static/css/main.38e25c70.css.map",
+    "main.2056cc5f.js.map": "/emoji-tic-tac-toe/static/js/main.2056cc5f.js.map",
     "453.defdcfd4.chunk.js.map": "/emoji-tic-tac-toe/static/js/453.defdcfd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5155342.css",
-    "static/js/main.117ff458.js"
+    "static/css/main.38e25c70.css",
+    "static/js/main.2056cc5f.js"
   ]
 }
